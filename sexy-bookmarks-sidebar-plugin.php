@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Sexy Bookmarks Sidebar Widget
-Plugin URI: http://wakeless.net/
+Plugin URI: http://wakeless.net/archive/2010/03/sexy-bookmarks-sidebar-widget
 Description: Add Sexy Bookmarks to the sidebar
 Author: Michael Gall
-Version: 0.1
+Version: 0.2
 Author URI: http://terroir.me/
 */
 
