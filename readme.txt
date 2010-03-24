@@ -27,5 +27,5 @@ Install the [Sexy Bookmarks](http://www.wordpress.org/extend/plugins/sexy-bookma
 = 0.1 =
 * Initial release
 
-=== 0.2 ===
+= 0.2 =
 * Fixing it so it works.
