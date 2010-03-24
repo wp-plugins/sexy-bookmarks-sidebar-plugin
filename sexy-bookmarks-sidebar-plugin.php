@@ -21,7 +21,7 @@ class Sexy_Bookmarks_Sidebar_Widget extends WP_Widget {
         	<?php echo $before_widget; ?>
             <?php if ( $title )
             	echo $before_title . $title . $after_title; ?>
-            	selfserv_sexy();
+            <?php selfserv_sexy(); ?>
             <?php echo $after_widget; ?>
         <?php
     }
